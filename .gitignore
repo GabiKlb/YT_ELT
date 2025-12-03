@@ -3,3 +3,5 @@ _pycache_/
 .env 
 logs/
 *.DS_Store
+__pycache__/
+*.pyc
